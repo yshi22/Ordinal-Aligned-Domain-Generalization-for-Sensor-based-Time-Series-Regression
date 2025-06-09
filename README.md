@@ -20,8 +20,6 @@ This enables the model to make accurate predictions across unseen domains and co
 LENDB[1], REFIT[2] and PRSA[3] datasets are available under the Creative Commons Attribution 4.0 International License, permitting use, distribution, and reproduction in any medium, provided the original work is properly credited.
 
 ## Reference
-[1] Magrini, F., Jozinović, D., Cammarano, F., Michelini, A. and Boschi, L., 2020. Local earthquakes detection: A benchmark dataset of 3-component seismograms built on a global scale. Artificial Intelligence in Geosciences, 1, pp.1-10.
-
-[2] Zhang, S., Guo, B., Dong, A., He, J., Xu, Z. and Chen, S.X., 2017. Cautionary tales on air-quality improvement in Beijing. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 473(2205), p.20170457.
-
+[1] Magrini, F., Jozinović, D., Cammarano, F., Michelini, A. and Boschi, L., 2020. Local earthquakes detection: A benchmark dataset of 3-component seismograms built on a global scale. Artificial Intelligence in Geosciences, 1, pp.1-10.  
+[2] Zhang, S., Guo, B., Dong, A., He, J., Xu, Z. and Chen, S.X., 2017. Cautionary tales on air-quality improvement in Beijing. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 473(2205), p.20170457.  
 [3] Murray, D., Stankovic, L. and Stankovic, V., 2017. An electrical load measurements dataset of United Kingdom households from a two-year longitudinal study. Scientific data, 4(1), pp.1-12.
