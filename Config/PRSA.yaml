@@ -1,0 +1,17 @@
+defaults:
+  - defaults.yaml
+  - _self_
+
+dataset: PRSA
+data_dir: /Data/PRSA
+n_domains: 5
+lr: 5e-3
+lr_decay: 0.1
+weight_decay: 5e-4
+z_dim: 32
+n_epoch: 60
+w_pred: 1.
+w_oa: 1.
+w_dtg: 1.
+batch_size: 1024
+metric_list: [mae, mse]
